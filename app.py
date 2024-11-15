@@ -7,11 +7,6 @@ import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.utils import load_img, img_to_array
 
-# Unzip Dataset
-zip_ref = zipfile.ZipFile('D:/Andre Files/Project Andre/SampahKu/Dataset.zip', 'r')
-zip_ref.extractall("tmp/")
-zip_ref.close()
-
 # Set up directories
 base_dir = 'tmp/DATASET'
 train_dir = os.path.join(base_dir, 'TRAIN')
