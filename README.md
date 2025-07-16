@@ -8,6 +8,7 @@
 ## 📱 Platform
 - Android
 - iOS  
+
 Dikembangkan menggunakan **Flutter** (bahasa **Dart**) untuk mendukung performa lintas platform.
 
 ---
