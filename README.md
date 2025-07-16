@@ -13,7 +13,7 @@ Dikembangkan menggunakan **Flutter** (bahasa **Dart**) untuk mendukung performa 
 
 ---
 
-## 🧠 Model Pembelajaran Mesin
+## 🧠 Model Machine Learning
 
 Aplikasi ini menggunakan model klasifikasi gambar berbasis **Transfer Learning** dengan arsitektur **MobileNetV2**.
 
