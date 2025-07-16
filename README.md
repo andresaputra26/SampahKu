@@ -48,12 +48,3 @@ Model dilatih untuk mengenali sampah organik dan anorganik dari gambar menggunak
 Proyek ini menggunakan lisensi MIT. Silakan lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ---
-
-## 🤝 Kontribusi
-
-Kontribusi sangat terbuka!  
-Jika Anda ingin menambahkan fitur, memperbaiki bug, atau meningkatkan performa model, silakan lakukan **fork** dan kirimkan **pull request** Anda.
-
-Untuk laporan masalah, gunakan [Issue Tracker](https://github.com/username/sampahku/issues).
-
----
